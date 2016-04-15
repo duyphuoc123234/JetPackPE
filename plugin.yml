@@ -1,0 +1,6 @@
+name: JetPackPE
+main: ImSilencer\JetPackPE\Main
+version: 0.1.0
+api: [1.0.0]
+load: POSTWORLD
+author: ImSilencer

@@ -1,2 +1,1 @@
-# JetPackPE
-JetPackPE, now you can add JetPacks on your Pocketmine Server!
+JetPackPE, Now you can use your own jetpacks on your server(s). You can change your own favorite blocks in config.yml!!
